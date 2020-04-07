@@ -1,4 +1,4 @@
-# javascript-challenge
+# Base Javascript
 Automatic table and search of UFO sighting data
 
 ## Summary
